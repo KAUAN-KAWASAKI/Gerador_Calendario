@@ -21,7 +21,7 @@ Um utilitário simples em Python que gera o calendário visual de qualquer mês 
 1. Certifique-se de ter o Python instalado em sua máquina.
 2. Clone este repositório:
    ```bash
-   git clone [https://github.com/KAUAN-KAWASAKI/Gerador_Calendario.git](https://github.com/KAUAN-KAWASAKI/Gerador-Calendario.git)
+   git clone [https://github.com/KAUAN-KAWASAKI/Gerador_Calendario.git](https://github.com/KAUAN-KAWASAKI/Gerador_Calendario.git)
 ---
 
 ### 3. Melhoria Opcional no Código (Loop para Repetição)
